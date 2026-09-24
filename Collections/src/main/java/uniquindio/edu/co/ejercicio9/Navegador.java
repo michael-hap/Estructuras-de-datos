@@ -16,10 +16,10 @@ public class Navegador {
 
     public String retroceder(){
         if(historial.size()<=1){
-            System.out.println("No hay más páginas anteriores");
+            return "No hay más páginas anteriores";
         }
-            historial.pop();
-            return historial.peek();
+        historial.pop();
+        return historial.peek();
 
     }
 

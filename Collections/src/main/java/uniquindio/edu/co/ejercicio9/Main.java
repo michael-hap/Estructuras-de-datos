@@ -12,9 +12,12 @@ public class Main {
         System.out.println(navegador.paginaActual());
         IO.println("\n");
 
-        navegador.retroceder();
-
         IO.println("-----------PÁGINA ANTERIOR---------");
+        System.out.println(navegador.retroceder());
+
+        IO.println("\n");
+
+        IO.println("---------PÁGINA ACTUAL--------");
         System.out.println(navegador.paginaActual());
         IO.println("\n");
         IO.println("-----------HISTORIAL-----------");
