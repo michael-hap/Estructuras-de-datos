@@ -2,6 +2,7 @@ package uniquindio.edu.co.ejercicio15;
 
 import java.util.HashMap;
 import java.util.Iterator;
+import java.util.Map;
 
 public class Directorio {
     private HashMap<String, String> contactos;
@@ -30,9 +31,10 @@ public class Directorio {
     }
 
     public void mostrarContactos(){
-        Iterator iterador = contactos.entrySet().iterator();
+        Iterator<Map.Entry<String, String>> iterador = contactos.entrySet().iterator();
         while(iterador.hasNext()){
-            System.out.println(iterador.next());
+            Map.Entry<String, String> contacto= iterador.next();
+            System.out.println(contacto.getKey() + " - " + contacto.getValue());
         }
     }
 }
