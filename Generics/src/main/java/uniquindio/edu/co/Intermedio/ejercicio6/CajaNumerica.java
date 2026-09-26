@@ -6,8 +6,9 @@ public class CajaNumerica<T extends Number> {
         CajaNumerica<Integer> caja1 = new CajaNumerica<>(10);
         System.out.println(caja1.doble());
 
-        CajaNumerica<Double> caja2 = new CajaNumerica(7.8);
+        CajaNumerica<Double> caja2 = new CajaNumerica<>(7.8);
         System.out.println(caja2.doble());
+
     }
 
     public CajaNumerica(T numero){
