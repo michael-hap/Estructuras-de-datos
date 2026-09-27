@@ -1,4 +1,4 @@
-package uniquindio.edu.co.Basicos.ejercicioCaja;
+package uniquindio.edu.co.Basicos.ejercicio1;
 
 public class Caja<T> {
     private T contenido;

@@ -1,4 +1,4 @@
-package uniquindio.edu.co.Basicos.ejercicioCaja;
+package uniquindio.edu.co.Basicos.ejercicio1;
 
 public class Main {
     public static void main(String[] args) {
