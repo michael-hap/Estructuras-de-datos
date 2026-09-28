@@ -1,6 +1,10 @@
 package uniquindio.edu.co.ejercicio7;
 
 import java.util.*;
+/*
+    Este ejercicio corresponde al taller de collections, es el ejercicio 7
+ */
+
 
 public class Banco {
     private LinkedList<String> clientes;

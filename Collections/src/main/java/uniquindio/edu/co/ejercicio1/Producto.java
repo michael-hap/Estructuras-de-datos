@@ -1,5 +1,9 @@
 package uniquindio.edu.co.ejercicio1;
 
+/*
+    Este ejercicio corresponde al taller de collections, es el ejercicio 1
+ */
+
 public class Producto implements Comparable<Producto>{
     public String codigo, nombre;
     public double precio;

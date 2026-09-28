@@ -2,6 +2,10 @@ package uniquindio.edu.co.ejercicio1;
 
 import java.util.TreeSet;
 
+/*
+    Este ejercicio corresponde al taller de collections, es el ejercicio 1
+ */
+
 public class Empresa {
     private TreeSet<Producto> inventario;
 

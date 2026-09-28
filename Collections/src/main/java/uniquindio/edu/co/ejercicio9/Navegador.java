@@ -2,6 +2,10 @@ package uniquindio.edu.co.ejercicio9;
 
 import java.util.Stack;
 
+/*
+    Este ejercicio corresponde al taller de collections, es el ejercicio 9
+ */
+
 public class Navegador {
 
     private Stack<String> historial;

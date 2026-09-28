@@ -1,5 +1,10 @@
 package uniquindio.edu.co.ejercicio9;
 
+/*
+    Este ejercicio corresponde al taller de collections, es el ejercicio 9
+ */
+
+
 public class Main {
     public static void main(String[] args) {
         Navegador navegador= new Navegador();

@@ -1,5 +1,9 @@
 package uniquindio.edu.co.ejercicio4;
 
+/*
+    Este ejercicio corresponde al taller de collections, es el ejercicio 4
+ */
+
 public class Tarea {
     private String descripcion;
     private int prioridad;

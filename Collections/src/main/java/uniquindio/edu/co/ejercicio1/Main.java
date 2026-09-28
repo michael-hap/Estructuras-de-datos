@@ -1,5 +1,9 @@
 package uniquindio.edu.co.ejercicio1;
 
+/*
+    Este ejercicio corresponde al taller de collections, es el ejercicio 1
+ */
+
 public class Main {
 
     public static void main(String[] args){

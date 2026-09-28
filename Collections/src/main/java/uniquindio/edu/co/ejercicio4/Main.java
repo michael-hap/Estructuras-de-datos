@@ -1,5 +1,9 @@
 package uniquindio.edu.co.ejercicio4;
 
+/*
+    Este ejercicio corresponde al taller de collections, es el ejercicio 4
+ */
+
 public class Main {
     public static void main(String[] args) {
         GestorTareas gestor = new GestorTareas();

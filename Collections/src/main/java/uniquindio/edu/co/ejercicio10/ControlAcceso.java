@@ -3,6 +3,10 @@ package uniquindio.edu.co.ejercicio10;
 import java.util.HashSet;
 import java.util.Iterator;
 
+/*
+    Este ejercicio corresponde al taller de collections, es el ejercicio 10
+ */
+
 public class ControlAcceso {
     private HashSet<String> empleados;
 

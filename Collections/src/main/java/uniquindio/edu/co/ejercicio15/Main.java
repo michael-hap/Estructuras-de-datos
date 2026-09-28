@@ -1,5 +1,9 @@
 package uniquindio.edu.co.ejercicio15;
 
+/*
+    Este ejercicio corresponde al taller de collections, es el ejercicio 15
+ */
+
 public class Main {
     public static void main(String[] args) {
         Directorio directorio = new Directorio();

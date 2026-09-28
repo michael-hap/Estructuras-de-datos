@@ -4,6 +4,10 @@ import java.util.Iterator;
 import java.util.Set;
 import java.util.TreeSet;
 
+/*
+    Este ejercicio corresponde al taller de collections, es el ejercicio 3
+ */
+
 public class Main {
 
     public static void main(String[]args){

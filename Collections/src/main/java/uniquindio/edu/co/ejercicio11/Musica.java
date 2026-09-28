@@ -2,6 +2,11 @@ package uniquindio.edu.co.ejercicio11;
 
 import java.util.LinkedHashSet;
 
+/*
+    Este ejercicio corresponde al taller de collections, es el ejercicio 11
+ */
+
+
 public class Musica {
     private LinkedHashSet<String> canciones;
 

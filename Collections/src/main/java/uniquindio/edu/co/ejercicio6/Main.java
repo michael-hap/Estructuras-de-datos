@@ -1,5 +1,10 @@
 package uniquindio.edu.co.ejercicio6;
 
+/*
+    Este ejercicio corresponde al taller de collections, es el ejercicio 6
+ */
+
+
 public class Main {
     public static void main(String[] args) {
         Empresa miEmpresa = new Empresa();

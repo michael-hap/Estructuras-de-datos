@@ -1,5 +1,9 @@
 package uniquindio.edu.co.ejercicio10;
 
+/*
+    Este ejercicio corresponde al taller de collections, es el ejercicio 10
+ */
+
 public class Main {
     public static void main(String[] args) {
         ControlAcceso edificio = new ControlAcceso();

@@ -4,6 +4,11 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
 
+/*
+    Este ejercicio corresponde al taller de collections, es el ejercicio 15
+ */
+
+
 public class Directorio {
     private HashMap<String, String> contactos;
 

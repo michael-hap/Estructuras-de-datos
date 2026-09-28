@@ -1,5 +1,10 @@
 package uniquindio.edu.co.ejercicio7;
 
+/*
+    Este ejercicio corresponde al taller de collections, es el ejercicio 7
+ */
+
+
 public class Main {
     public static void main(String[] args) {
         Banco banco = new Banco();

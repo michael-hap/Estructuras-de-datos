@@ -1,5 +1,10 @@
 package uniquindio.edu.co.ejercicio11;
 
+/*
+    Este ejercicio corresponde al taller de collections, es el ejercicio 11
+ */
+
+
 public class Main {
     public static void main(String[] args) {
         Musica favoritas = new Musica();

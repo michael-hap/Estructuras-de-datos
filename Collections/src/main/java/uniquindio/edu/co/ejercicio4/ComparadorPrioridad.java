@@ -2,6 +2,10 @@ package uniquindio.edu.co.ejercicio4;
 
 import java.util.Comparator;
 
+/*
+    Este ejercicio corresponde al taller de collections, es el ejercicio 4
+ */
+
 public class ComparadorPrioridad implements Comparator<Tarea> {
 
     @Override
