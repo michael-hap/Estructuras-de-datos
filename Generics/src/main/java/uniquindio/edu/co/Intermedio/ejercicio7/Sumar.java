@@ -1,5 +1,10 @@
 package uniquindio.edu.co.Intermedio.ejercicio7;
 
+/*
+    Este ejercicio corresponde al taller de Generics, es el ejercicio 7 de la sección Intermedio
+ */
+
+
 public class Sumar {
 
     public static void main(String[] args) {

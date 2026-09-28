@@ -7,6 +7,11 @@ import java.util.List;
 
 public class CatalogoCursos {
 
+/*
+    Este ejercicio corresponde al taller de Generics, es el ejercicio 3 de la sección Enunciados
+ */
+
+
     public ArrayList<Curso> cursos;
 
     public CatalogoCursos(){

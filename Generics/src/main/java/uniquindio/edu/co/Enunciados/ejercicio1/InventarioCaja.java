@@ -1,5 +1,10 @@
 package uniquindio.edu.co.Enunciados.ejercicio1;
 
+/*
+    Este ejercicio corresponde al taller de Generics, es el ejercicio 1 de la sección Enunciados
+ */
+
+
 import java.util.*;
 
 public class InventarioCaja<T extends Comparable<T>> {

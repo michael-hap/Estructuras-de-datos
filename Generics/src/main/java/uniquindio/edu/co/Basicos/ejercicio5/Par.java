@@ -1,5 +1,10 @@
 package uniquindio.edu.co.Basicos.ejercicio5;
 
+/*
+    Este ejercicio corresponde al taller de Generics, es el ejercicio 5 de la sección Básicos
+ */
+
+
 public class Par<T>{
 
     private T valor1, valor2;

@@ -3,6 +3,11 @@ package uniquindio.edu.co.Avanzado.ejercicio14;
 import java.util.ArrayList;
 import java.util.List;
 
+/*
+    Este ejercicio corresponde al taller de Generics, es el ejercicio 14 de la sección Avanzado
+ */
+
+
 public class Ordenador<T extends Comparable<T>>{
     public static void main(String[] args) {
 

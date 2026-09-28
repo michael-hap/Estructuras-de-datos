@@ -1,5 +1,10 @@
 package uniquindio.edu.co.Basicos.ejercicio4;
 
+/*
+    Este ejercicio corresponde al taller de Generics, es el ejercicio 4 de la sección Básicos
+ */
+
+
 import java.util.Arrays;
 
 public class Intercambiar {

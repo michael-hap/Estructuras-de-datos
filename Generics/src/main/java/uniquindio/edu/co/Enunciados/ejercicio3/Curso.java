@@ -1,5 +1,10 @@
 package uniquindio.edu.co.Enunciados.ejercicio3;
 
+/*
+    Este ejercicio corresponde al taller de Generics, es el ejercicio 3 de la sección Enunciados
+ */
+
+
 public class Curso {
     private String nombre, codigo;
     private int anio;

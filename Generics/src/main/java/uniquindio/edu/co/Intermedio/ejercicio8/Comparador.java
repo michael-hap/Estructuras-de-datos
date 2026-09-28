@@ -1,5 +1,10 @@
 package uniquindio.edu.co.Intermedio.ejercicio8;
 
+/*
+    Este ejercicio corresponde al taller de Generics, es el ejercicio 8 de la sección Intermedio
+ */
+
+
 public class Comparador<T extends Comparable<T>>{
     public static void main(String[] args) {
         Comparador<Integer> comparador = new Comparador<>();

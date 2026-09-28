@@ -1,5 +1,10 @@
 package uniquindio.edu.co.Intermedio.ejercicio6;
 
+/*
+    Este ejercicio corresponde al taller de Generics, es el ejercicio 6 de la sección Intermedio
+ */
+
+
 public class CajaNumerica<T extends Number> {
     private T valor;
     public static void main(String[] args) {

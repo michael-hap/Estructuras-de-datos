@@ -2,6 +2,11 @@ package uniquindio.edu.co.Enunciados.ejercicio3;
 
 import java.util.Arrays;
 
+/*
+    Este ejercicio corresponde al taller de Generics, es el ejercicio 3 de la sección Enunciados
+ */
+
+
 public class Main {
     public static void main(String[] args) {
         CatalogoCursos catalogo = new CatalogoCursos();

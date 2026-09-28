@@ -1,5 +1,10 @@
 package uniquindio.edu.co.Avanzado.ejercicio15;
 
+/*
+    Este ejercicio corresponde al taller de Generics, es el ejercicio 15 de la sección Avanzado
+ */
+
+
 
 public class CalculadoraAvanzada<T extends Number &  Comparable<T>> {
     public static void main(String[] args) {
