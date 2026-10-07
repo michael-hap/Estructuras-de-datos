@@ -1,11 +1,9 @@
 package uniquindio.edu.co.ListaSimplementeEnlazada.Ejercicio2;
 
-import uniquindio.edu.co.ListaSimplementeEnlazada.Ejercicio2.ListaSimple;
-
 
 import javax.swing.*;
 
-public class MainEjercicioUno {
+public class MainEjercicioDos {
     public static void main(String[] args) {
         ListaSimple listita = new ListaSimple();
         int opcion = 0, elem;
