@@ -37,6 +37,9 @@ public class ListaSimple {
                 Nodo comparador= actual.siguiente;
                 while(comparador!=null){
                     if(actual.dato==comparador.dato){
+                        if(comparador==fin){
+                            fin=anteriorComparador;
+                        }
                         anteriorComparador.siguiente= comparador.siguiente;
                         comparador= anteriorComparador.siguiente;
                     }else{

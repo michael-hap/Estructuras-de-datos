@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Collections/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Generics/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ListasEnlazadas/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TallerCollections/src/main/java" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
